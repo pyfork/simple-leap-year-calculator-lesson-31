@@ -1,5 +1,5 @@
 # Get year from user
-y = int(input("Which year do you want to check?"))
+y = int(input("Which year do you want to check?\n"))
 
 print(y)
 
